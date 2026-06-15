@@ -16,6 +16,7 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - Lesson 8: Learned about CSS display property
 - Lesson 9: Learned about the div element
 - Lesson 10: Learned about nested layouts technique
+- Lesson 11: Learned what is CSS Grid
 
 ## Goals
 - Learn HTML, CSS, JavaScript
