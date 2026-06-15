@@ -1,0 +1,57 @@
+.container {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.profile {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+p {
+  font-family: arial;
+}
+
+.name {
+  margin:0;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.nick {
+  margin:0;
+  color: gray;
+  font-size: 12px;
+}
+
+.status {
+  margin:0;
+  color: gray;
+  font-size: 10px;
+}
+
+.follow {
+  color:white;
+  background-color: rgb(38, 166, 246);
+  border:none;
+  border-radius: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left:10px;
+  padding-right:10px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.follow:hover {
+  opacity: 0.7;
+}
+
+.info {
+  width: 150px;
+}
