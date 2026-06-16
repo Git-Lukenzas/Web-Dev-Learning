@@ -17,7 +17,8 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - Lesson 9: Learned about the div element
 - Lesson 10: Learned about nested layouts technique
 - Lesson 11: Learned what is CSS Grid
-- Lesson 12: Learned what is Flexbox. What are Flexbox & CSS Grid main similarities / differences
+- Lesson 12: Learned what is flexbox. What are flexbox & CSS grid main similarities / differences
+- Lesson 13: Learned about nested flexbox
 
 ## Goals
 - Learn HTML, CSS, JavaScript
