@@ -19,6 +19,7 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 - Lesson 11: Learned what is CSS Grid
 - Lesson 12: Learned what is flexbox. What are flexbox & CSS grid main similarities / differences
 - Lesson 13: Learned about nested flexbox
+- Lesson 14: Learned about CSS Position
 
 ## Goals
 - Learn HTML, CSS, JavaScript
