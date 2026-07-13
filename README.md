@@ -2,8 +2,9 @@
 
 This repository shows my website coding learning journey.
 
-# Followed Course
+# Followed Courses
 SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
+SuperSimpleDev: https://www.youtube.com/watch?v=EerdGm-ehJQ&t=79399s
 
 ## Lessons
 - Lesson 1: Learned what is HTML & basics of HTML
