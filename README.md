@@ -5,7 +5,7 @@ This repository shows my website coding learning journey.
 # Followed Courses
 SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc ; https://www.youtube.com/watch?v=EerdGm-ehJQ
 
-## Lessons
+## HTML & CSS Course Lessons
 - Lesson 1: Learned what is HTML & basics of HTML
 - Lesson 2: Learned what is CSS & basics of CSS
 - Lesson 3: Learned about hovers, transitions, shadows
