@@ -24,6 +24,9 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc ; https://www.youtub
 - Lesson 16: Finishing touches on Youtube clone project
 - Lesson 17: Finished Youtube clone project & learned other CSS features
 
+## HTML & CSS Course Lessons
+- Lesson 1:
+
 ## Goals
 - Learn HTML, CSS, JavaScript
 - Build interactive web projects and improve problem-solving skills
