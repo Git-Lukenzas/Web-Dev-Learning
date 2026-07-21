@@ -22,6 +22,7 @@ SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc ; https://www.youtub
 - Lesson 14: Learned about CSS Position
 - Lesson 15: Learned about position absolute & relative
 - Lesson 16: Finishing touches on Youtube clone project
+- Lesson 17: Finished Youtube clone project & learned other CSS features
 
 ## Goals
 - Learn HTML, CSS, JavaScript
