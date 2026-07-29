@@ -1,0 +1,15 @@
+.survey-box {
+  width: 350px;
+  height: 90px;
+  border: solid;
+  border-color: gray;
+  border-width: 1px;
+  padding-left: 15px;
+}
+.button {
+  border:solid;
+  border-width: 1px;
+  border-color: gray;
+  background-color: rgb(230, 230, 230);
+  border-radius: 2px;
+}

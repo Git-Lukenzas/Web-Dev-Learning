@@ -1,0 +1,24 @@
+.youtube-music {
+  width: 330px;
+  height: 80px;
+  background-color: rgb(49, 49, 49);
+  padding-top:15px;
+  padding-left:15px;
+  padding-bottom: 7px;
+}
+.title {
+  margin-top:0px;
+  margin-bottom: 0px;
+  color:white;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.small-text {
+  margin-top:0px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  font-family: roboto;
+  color: rgb(182, 182, 182);
+}
