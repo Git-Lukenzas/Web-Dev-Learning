@@ -1,0 +1,13 @@
+.google-logo {
+  height: 92px;
+  width: 272px;
+  object-fit: contain;
+}
+
+.google-logo-container {
+  height: 290px;
+  display: flex;
+  justify-content: center;
+  align-items:end;
+  margin-bottom: 30px;
+}

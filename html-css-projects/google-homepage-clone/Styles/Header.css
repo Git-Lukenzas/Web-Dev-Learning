@@ -1,0 +1,108 @@
+.header-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  
+  height: 51px;
+  padding: 6px;
+}
+
+.text-1 {
+  font-size: 13px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.text-container {
+  display: flex;
+  margin-right: 10px;
+}
+
+.google-apps-container,
+.account-picture-container {
+  height: 48px;
+  width: 48px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.google-apps-tooltip {
+  position: absolute;
+  white-space: nowrap;
+  background-color: rgb(68, 71, 70);
+  color:white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 5px;
+
+  font-size: 13px;
+  bottom: -30px;
+
+  opacity: 0;
+  visibility: hidden;
+
+  transition-delay: 0s;
+}
+
+.google-account-tooltip {
+  position: absolute;
+  white-space: nowrap;
+  background-color: rgb(68, 71, 70);
+  color:white;
+  padding: 5px 5px 5px 5px;
+  border-radius: 5px;
+
+  font-size: 13px;
+  right:0;
+  bottom: -60px;
+
+  opacity: 0;
+  visibility: hidden;
+  transition-delay: 0s;
+}
+
+.text-2 {
+  color: rgb(165, 165, 165);
+}
+
+.hover-background:hover .google-apps-tooltip,
+.hover-background:hover .google-account-tooltip {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.8s;
+}
+
+.google-apps-icon {
+  height: 24px;
+  width: 24px;
+}
+
+.account-picture {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 32px;
+  width: 32px;
+}
+
+.hover-background {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor:pointer;
+  position: relative;
+
+  width:40px;
+  height: 40px;
+  border-radius: 50%;
+
+  transition: background-color 0.15s;
+}
+
+.hover-background:hover {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+
+.text-1:hover {
+  text-decoration: underline;
+}
